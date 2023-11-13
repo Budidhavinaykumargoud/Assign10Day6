@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\bin\Debug\AssignManipJagArray.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\bin\Debug\AssignManipJagArray.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\bin\Debug\AssignManipJagArray.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\obj\Debug\AssignManipJagArray.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\obj\Debug\AssignManipJagArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\obj\Debug\AssignManipJagArray.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\AssignManipJagArray\AssignManipJagArray\obj\Debug\AssignManipJagArray.pdb
